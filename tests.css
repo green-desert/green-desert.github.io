@@ -1,0 +1,32 @@
+body {
+  background-color: #c9c9c9;
+}
+.wholebox {
+  background-color: white;
+  margin: auto;
+  width: 35rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 2.5rem 2.5rem;
+  border-radius: 1.5rem;
+  box-shadow:
+}
+
+img {
+  width: 10rem;
+  height: auto;
+}
+
+
+.para {
+  font-family: sans-serif;
+}
+.para p {
+  font-size: 1.25rem
+}
+
+.para h1 {
+  font-size: 3rem;
+}
